@@ -1,0 +1,35 @@
+2019/07/25 11:34:38:653 [reason]=524288
+CxLogManager::startLog. 
+
+2019/07/25 11:34:38:653 [reason]=524288
+CxAppEnv::configFilePath:  D:\gcl3deploy\bin_win32_qt\gcl_sdk\config\gcl_tool_sdk.config.ini 
+
+2019/07/25 11:34:38:653 [reason]=524288
+CxAppEnv::logPath:  D:\gcl3deploy\bin_win32_qt\gcl_sdk\log\gcl_tool_sdk 
+
+2019/07/25 11:34:38:653 [reason]=524288
+CxAppEnv::tempPath:  D:\gcl3deploy\bin_win32_qt\gcl_sdk\temp\gcl_tool_sdk 
+
+2019/07/25 11:34:38:653 ##  ApplicationFilePath:  D:\gcl3deploy\bin_win32_qt\gcl_tool_sdk.exe 
+
+2019/07/25 11:34:38:653 ##  GeneralAccess Start : 
+
+2019/07/25 11:34:38:653 ##  Channel Open : 
+ *** Channel Report *** TypeSimpleName=Udp LocalName=Udp@127.0.0.1:5551 ChannelName= ConnectState=Connected AutoOpenInterval=0 ObserverCount=1 ReceivedByteCount=0 LastReceivedTime=1970/01/01 08:00:00:000 SentByteCount=0 LastSentTime=1970/01/01 08:00:00:000 IsMultiRoad=0 IsSendQueue=1 IsProcessQueue=1 LocalIpAddress=127.0.0.1 LocalPort=5551 RemoteIpAddress=127.0.0.1 RemotePort=6621  
+
+2019/07/25 11:34:38:653 ##  Psm Start : 
+  sentSourceId: -1, sentTargetId: -1, lastReceivedDataTime: 1970/01/01 08:00:00:000  
+
+2019/07/25 11:34:38:668 ##  gcl_tool_sdk  begin : 
+
+2019/07/25 11:34:38:668 ##  init     datetime= 2019/07/25 11:34:38:613 
+
+2019/07/25 11:34:38:668 ##  start    datetime= 2019/07/25 11:34:38:639 
+
+2019/07/25 11:34:38:668 ##  execute  datetime= 2019/07/25 11:34:38:653 
+
+2019/07/25 11:34:38:668 ##  ... 
+ 
+ 
+ 
+
